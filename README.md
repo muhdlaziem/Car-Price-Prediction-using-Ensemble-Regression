@@ -10,6 +10,8 @@ Resources
 	
 	4. https://machinelearningmastery.com/tutorial-to-implement-k-nearest-neighbors-in-python-from-scratch/
 	
+	5. https://machinelearningmastery.com/feature-selection-machine-learning-python/
+	
 Contributors
 
 	1. Muhammad Laziem Bin Shafie (muhdlaziem@gmail.com)
