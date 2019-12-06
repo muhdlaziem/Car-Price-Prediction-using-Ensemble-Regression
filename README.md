@@ -2,7 +2,7 @@
 
 Resources
 
-	1. https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/
+	1. [https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/)
 	
 	2. https://www.kaggle.com/CooperUnion/cardataset
 	
